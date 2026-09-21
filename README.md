@@ -3,9 +3,9 @@
 A production-grade, secure Generative AI interface that bridges natural language business queries with structured cloud relational database systems. The application allows non-technical stakeholders to query complex transaction histories using plain English, which an intelligent orchestration layer translates into optimized SQL executable parameters live.
 
 ## 🚀 Live Production Deployment
-* **Interactive Live Web App:** [Launch GenAI SQL Copilot Dashboard](https://streamlit.app](https://genai-sql-copilot-ri3pwgvnuvspk3ebkntwbk.streamlit.app/).
-* **Database Infrastructure Host:** [Neon Serverless PostgreSQL](https://neon.tech)
-* **Inference Processing Network:** [Groq Cloud Console](https://groq.com)
+* **Live Web App URL:** https://streamlit.app
+* **Database Infrastructure Host:** Neon Serverless PostgreSQL (https://neon.tech)
+* **Inference Processing Network:** Groq Cloud Console (https://groq.com)
 
 ---
 
@@ -30,12 +30,12 @@ graph TD
 * **Frontend Presentation:** Streamlit (Stateful visual timeline UI wrapper)
 * **AI Orchestration Framework:** LangChain (Autonomous Tool-calling routing agents)
 * **Large Language Model (LLM Brain):** Groq API Cloud — `openai/gpt-oss-120b` (Zero temperature, hyper-deterministic reasoning)
-* **Storage Tier Infrastructure:** Neon Tech (Serverless PostgreSQL 16 distributed cluster)
+* **Storage Tier Infrastructure:** Neon Tech (Serverless PostgreSQL cluster)
 * **Connection Layer Driver:** Psycopg2-binary & SQLAlchemy Core URL mapping
 
 ---
 
-## 🧬 Core Technical Capabilities & Core Value Proven
+## 🧬 Core Technical Capabilities & Value Proven
 
 ### 1. Unified Cloud Orchestration Loop
 The system utilizes a model-agnostic schema parsing mechanism. The moment a prompt is logged, the `create_sql_agent` interface extracts the metadata definitions of the `customers`, `products`, and `orders` tables, formatting them dynamically to ensure the generated query strictly avoids missing properties or invalid schema joins.
