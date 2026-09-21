@@ -3,7 +3,7 @@
 A production-grade, secure Generative AI interface that bridges natural language business queries with structured cloud relational database systems. The application allows non-technical stakeholders to query complex transaction histories using plain English, which an intelligent orchestration layer translates into optimized SQL executable parameters live.
 
 ## 🚀 Live Production Deployment
-* **Interactive Live Web App:** [Launch GenAI SQL Copilot Dashboard](https://streamlit.app)
+* **Interactive Live Web App:** [Launch GenAI SQL Copilot Dashboard](https://streamlit.app](https://genai-sql-copilot-ri3pwgvnuvspk3ebkntwbk.streamlit.app/).
 * **Database Infrastructure Host:** [Neon Serverless PostgreSQL](https://neon.tech)
 * **Inference Processing Network:** [Groq Cloud Console](https://groq.com)
 
