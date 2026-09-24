@@ -92,4 +92,4 @@ SELECT SUM(total_amount) AS gross_revenue FROM orders;
 * **User Input:** *"What is our gross revenue?"*
 * **AI Agent Output Engine Thought Process:** `SELECT SUM(total_amount) FROM orders;`
 * **Live System Display Response Return:** *"The total gross revenue generated from all successful orders is **\$570.00**."*
-* LIVE LINK: https://genai-sql-copilot-ri3pwgvnuvspk3ebkntwbk.streamlit.app/
+* LIVE LINK: [https://genai-sql-copilot-ri3pwgvnuvspk3ebkntwbk.streamlit.app/](https://genai-sql-copilot-29in3xnnp9qqmj4ukjvuie.streamlit.app/)
